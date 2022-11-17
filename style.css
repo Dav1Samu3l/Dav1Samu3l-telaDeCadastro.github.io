@@ -26,7 +26,7 @@ a {
 body {
     padding-top: 5vh;
     /* 5% da tela*/
-    background-image: url(/img/ponte-hercilio-luz-floriano.jpg);
+    background-image: url(./img/ponte-hercilio-luz-floriano.jpg);
     background-size: cover;
     background-position: -150px;
     background-repeat: 150px;
